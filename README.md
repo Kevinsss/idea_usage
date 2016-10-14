@@ -14,7 +14,9 @@
 
 快速输入：
 * sout
+
 	System.out.println();
+	
 * {var}.sout：{var}为变量名
 	//str.sout
 	String str = "This is a message!";
