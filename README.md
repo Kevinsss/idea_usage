@@ -133,7 +133,7 @@
 	//new User().var   or new User() ctrl+alt+v
 	User user = new User();
 ```
-**Live Template**
+**Live Template:**  
 如果上面中的快捷输入不能满足你的需求，你还可以自己编写快捷输入的模版，这就是Live Template。
 打开Settings->Live Template添加自己的，并定义快捷键，很方便的功能.
 使用时输入你定义的缩写，然后按Tab键，就生成了。
