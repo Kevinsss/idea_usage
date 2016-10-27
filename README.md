@@ -33,7 +33,8 @@
 * 资源文件编码：Settings->File Encoding中Properties File
 * 修改快捷键：Appearance & Behavior -> Keymap(其中Main menu->Code->Completion是代码快捷键)
 * 代码提示不区分大小写：Settings->Editor->Code Completion,讲Case sensitive completion设置为None
-* 
+
+
 ## 2. 使用技巧篇
 ### 2.1 快捷键 
 
